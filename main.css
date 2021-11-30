@@ -1,0 +1,15 @@
+#header{
+    border-style: inset;
+    background-color: white;
+    margin: 40px;
+}
+.Boxes{
+    margin: 40px;
+    padding: 10px;
+    border-style: inset;
+    display:inline-block;
+    background-color:White;
+}
+body{
+    background-color: red;
+}
